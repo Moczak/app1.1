@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "724906401741",
+    "firebase_url": "https://pedidos-oqvp.firebaseio.com",
+    "project_id": "pedidos-oqvp",
+    "storage_bucket": "pedidos-oqvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724906401741:android:a23325ce8226c1f2",
+        "android_client_info": {
+          "package_name": "com.oquevamospedir.comerciante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724906401741-da8gdjsrr21u572jnfivdraa1v4k737r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAenUN6-Gd1aTdjFzqpMWes6qVI8GvZJNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
