@@ -1514,7 +1514,7 @@ function displayOrderDetails(data)
 	       html+='</ons-row>';  
 	     html+='</ons-list-item>';
      }
-          
+     html+=TPLorderRow( getTrans("Location Name",'location_name') ,  data.client_info.location_name);     
      html+=TPLorderRow( getTrans("TRN Type",'trn_type') ,  data.trans_type);
      html+=TPLorderRow( getTrans("Payment Type",'payment_type') ,  data.payment_type);
      
@@ -1548,7 +1548,7 @@ function displayOrderDetails(data)
      
      if ( data.trans_type_raw=="delivery"){
         html+=TPLorderRow( getTrans("Delivery Instruction",'delivery_instructions') ,  data.delivery_instruction);     
-        html+=TPLorderRow( getTrans("Location Name",'location_name') ,  data.client_info.location_name);     
+  //    html+=TPLorderRow( getTrans("Location Name",'location_name') ,  data.client_info.location_name);     
      }
      
      if (!empty(data.total.order_change)){
