@@ -2104,7 +2104,7 @@ function viewHistory()
 	var options = {
       animation: 'none',
       onTransitionEnd: function() {    
-      	 $(".order-history-title").html('Getting history...');
+      	 $(".order-history-title").html('Obtendo histórico...');
       	 var info=getMerchantInfoStorage();	
       	 var params='';
 			 params+="&token="+getStorage("merchant_token");
