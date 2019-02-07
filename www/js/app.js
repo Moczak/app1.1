@@ -1489,10 +1489,10 @@ function displayOrderDetails(data)
      html+='<ons-icon icon="ion-ios-telephone"></ons-icon> <a href="tel:'+data.client_info.contact_phone+'">'+ data.client_info.contact_phone+"</a>";
      html+='</ons-col>';
      
-     html+='<ons-col class="text-right">';
+   /*html+='<ons-col class="text-right">';
      html+='<ons-button modifier="quiet" onclick="YourPrintFunctinns()" class="view-location">';
      html+= getTrans("Print",'print') + '</ons-button>';
-     html+='</ons-col>';
+     html+='</ons-col>';*/
      
      html+='</ons-row>';
      html+='</ons-list-item>';
