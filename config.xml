@@ -4,8 +4,8 @@
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "com.oquevamospedir.comerciante"
     versionCode = "25"
-    version   = "1.4">
-    <name>Pedidos - OQVP</name>
+    version   = "1.5">
+    <name>Pedidos OQVP</name>
     <description>
         Ordens e Pedidos Exclusivo Comerciante
     </description>
