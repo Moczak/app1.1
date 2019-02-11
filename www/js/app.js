@@ -1358,7 +1358,7 @@ function getTransactionTypeIcons(trans_type_raw)
 {
 	var icon_trans_type='';
 	if ( trans_type_raw=="delivery"){
-		icon_trans_type='ion-android-car';
+		icon_trans_type='ion-android-restaurant';
 	} else {
 		icon_trans_type='ion-android-restaurant';
 	}
