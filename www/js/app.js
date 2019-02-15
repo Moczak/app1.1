@@ -3597,7 +3597,7 @@ initPush = function(re_init){
 		push = PushNotification.init({
 			android: {
 				sound : "true",
-				clearBadge : "true"
+				clearBadge : "true",
 				icon: 'phonegap',
                                 iconColor: 'blue'
 			},
