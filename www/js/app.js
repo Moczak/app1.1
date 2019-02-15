@@ -3599,7 +3599,7 @@ initPush = function(re_init){
 				sound : "true",
 				clearBadge : "true",
 				icon: 'phonegap',
-                                iconColor: 'blue'
+                                iconColor: '#ff6201'
 			},
 		    browser: {
 		        pushServiceURL: 'http://push.api.phonegap.com/v1/push'
