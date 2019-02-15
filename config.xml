@@ -93,10 +93,10 @@
 	
 	    <resource-file src="www/beep.wav" target="app/src/main/res/raw/beep.wav" />
 	    <resource-file src="www/beep.wav" target="res/raw/beep.wav" /> 	    
-	    
+	    <resource-file src="res/icons/android/phonegap.png" target="app/src/main/res/icons/android/phonegap.png" />
 	    <resource-file src="google-services.json" target="google-services.json" />
 	    <resource-file src="google-services.json" target="app/google-services.json" />
-	   
+	        
 		<icon density="ldpi" src="res/icons/android/drawable-ldpi-icon.png" />
 		<icon density="mdpi" src="res/icons/android/drawable-mdpi-icon.png" />
 		<icon density="hdpi" src="res/icons/android/drawable-hdpi-icon.png" />
