@@ -96,7 +96,7 @@
 	    <resource-file src="res/icons/android/phonegap.png" target="app/src/main/res/drawable/phonegap.png" />
 	    <resource-file src="google-services.json" target="google-services.json" />
 	    <resource-file src="google-services.json" target="app/google-services.json" />
-	        <icon src="res/icons/android/phonegap.png" />
+	        
                 <icon density="icon" src="res/icons/android/phonegap.png" />	
 		<icon density="ldpi" src="res/icons/android/drawable-ldpi-icon.png" />
 		<icon density="mdpi" src="res/icons/android/drawable-mdpi-icon.png" />
