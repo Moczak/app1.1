@@ -22,6 +22,10 @@ background:#ff5301;
 color:#fff;
 padding-top:10px;
 padding-bottom:15px;
+margin-top: 2px;
+background: url("images/location-banner.jpg") no-repeat center center;
+background-size: cover;
+min-height: 180px;
 }
 .orange-header{
 padding-left:8px;
